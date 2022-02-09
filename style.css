@@ -645,6 +645,11 @@ footer .social a:hover {
     justify-content: space-between;
   }
 
+  footer i{
+    position: relative;
+    padding: 0.75rem;
+  }
+  
   footer .social {
     margin-right: 5rem;
   }
